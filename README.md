@@ -26,4 +26,7 @@ which contain the TS AST code in order to read this file `./src/app/file-to-test
 
 
 
-
+## Online TypeScript AST Viewer
+- [TypeScript AST Viewer](https://ts-ast-viewer.com/#code/KYDwDg9gTgLgBAYwDYEMDOa4EE4G8BQ+cxiEAdmjFAK4IzQAUAlHgL6ElxooBuwDZFAFtgALi5UAlmQDmLAp04JyaCEmAA6JBBkDhwJgG4iJdu0LKK8FHAC8cMsADu2Yyg3c+DAOQxglbyMgA)
+- [AST Explorer](https://astexplorer.net/)
+- [TSQuery Playground](https://tsquery-playground.firebaseapp.com/)
