@@ -13,7 +13,7 @@ A simple project to start use TypeScript AST
 .
 |-- README.md
 |-- package-lock.json
-|-- package.json                         # Our dependencies & dev script
+|-- package.json                          # Our dependencies & dev script
 |-- src
 |   `-- app
 |       `-- file-to-test-with-ast.ts      # A TS file for testing
