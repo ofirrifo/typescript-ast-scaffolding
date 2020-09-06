@@ -30,3 +30,8 @@ which contain the TS AST code in order to read this file `./src/app/file-to-test
 - [TypeScript AST Viewer](https://ts-ast-viewer.com/#code/KYDwDg9gTgLgBAYwDYEMDOa4EE4G8BQ+cxiEAdmjFAK4IzQAUAlHgL6ElxooBuwDZFAFtgALi5UAlmQDmLAp04JyaCEmAA6JBBkDhwJgG4iJdu0LKK8FHAC8cMsADu2Yyg3c+DAOQxglbyMgA)
 - [AST Explorer](https://astexplorer.net/)
 - [TSQuery Playground](https://tsquery-playground.firebaseapp.com/)
+
+
+## Inspired By
+- [Uri Shaked, Diving into the Internals of TypeScript: How I Built TypeWiz](https://medium.com/@urish/diving-into-the-internals-of-typescript-how-i-built-typewiz-d273bbef3565)
+- [Experimenting With ts-node And Using TypeScript In Node.js On The Server](https://www.bennadel.com/blog/3268-experimenting-with-ts-node-and-using-typescript-in-node-js-on-the-server.htm)
